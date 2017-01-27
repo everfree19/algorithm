@@ -1,16 +1,5 @@
-﻿빌드 시작: 2017-01-25 오전 12:24:53
-     1>2 노드의 "C:\MyWorkSpace\git\algorithm\Codility\TapeEquilibrium\TapeEquilibrium\TapeEquilibrium\TapeEquilibrium.vcxproj" 프로젝트(Build 대상)입니다.
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\TapeEquilibrium.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TapeEquilibrium.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TapeEquilibrium.cpp
-         TapeEquilibrium.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\MyWorkSpace\git\algorithm\Codility\TapeEquilibrium\TapeEquilibrium\Debug\TapeEquilibrium.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\MyWorkSpace\git\algorithm\Codility\TapeEquilibrium\TapeEquilibrium\Debug\TapeEquilibrium.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\MyWorkSpace\git\algorithm\Codility\TapeEquilibrium\TapeEquilibrium\Debug\TapeEquilibrium.lib" /MACHINE:X86 Debug\stdafx.obj
-         Debug\TapeEquilibrium.obj
-         TapeEquilibrium.vcxproj -> C:\MyWorkSpace\git\algorithm\Codility\TapeEquilibrium\TapeEquilibrium\Debug\TapeEquilibrium.exe
-     1>"C:\MyWorkSpace\git\algorithm\Codility\TapeEquilibrium\TapeEquilibrium\TapeEquilibrium\TapeEquilibrium.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+﻿빌드 시작: 2017-01-27 오후 4:30:57
 
 빌드했습니다.
 
-경과 시간: 00:00:01.07
+경과 시간: 00:00:00.01
